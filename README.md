@@ -2,7 +2,7 @@ Topics I Authored As a Technical Writer Intern for Oracle <a name="TOP"></a>
 ===================
 
 - - - - 
-From January 2022 to August 2022, I interned as a technical writer at Oracle, authroing documentation for the CX Marketing software. I learned how to author technical documentation in DITA format by using Madcap software tools (XML based authoring tools) to create my documents. The main tool I used to create my documents was MadCap Flare, and after creating my topics in Flare, they would be sent to my supervisor to be published online. Specifically, they would be published to the various Help Centers Oracle owns for their marketing automation software, such as Responsys Express, Responsys and Eloqua. Below you will see I have added linkes which will take you to the Help Center topics pecifically authored by me. 
+From January 2022 to August 2022, I interned as a technical writer at Oracle, authoring documentation for their CX Marketing software. I learned how to author technical documentation in DITA format by using Madcap software tools (XML based authoring tools) to create my documents. The main tool I used to create my documents was MadCap Flare, and after creating my topics in Flare, they would be sent to my supervisor to be published online. Specifically, they would be published to the various Help Centers Oracle owns for their marketing automation software, such as Responsys Express, Responsys and Eloqua. Below you will see I have added links that will take you to the Help Center topics specifically authored by me. 
 
 # Oracle Responsys Express #
 - [Message variants](https://docs.oracle.com/en/cloud/saas/marketing/responsys-user-express/Help/Messages/MessageVariants.htm?cshid=MessageVariants)
