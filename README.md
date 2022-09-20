@@ -12,6 +12,8 @@ From January 2022 to August 2022, I interned as a technical writer at Oracle, au
 
 
 # Oracle Responsys #
+- [Sending Audience Segmentation personalization attributes to Responsys](https://docs.oracle.com/en/cloud/saas/marketing/responsys-user/OAS_Audiences.htm#Sending)
+- [Using Audience Segmentation personalization data in campaigns](https://docs.oracle.com/en/cloud/saas/marketing/responsys-user/OAS_Audiences.htm#Using2)
 
 # Oracle Eloqua #
 - [Applying phone number validation for your database setup](https://docs.oracle.com/en/cloud/saas/marketing/eloqua-user/Help/ContactFields/Tasks/PhoneNumberValidation.htm)
